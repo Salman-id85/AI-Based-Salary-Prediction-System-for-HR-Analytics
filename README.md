@@ -17,6 +17,8 @@ This project predicts employee salaries based on HR-related features like job ro
 -  **Salary Prediction**: Predicts continuous salary values via a user-friendly Streamlit app.
 -  **Model Persistence**: Saves and loads models/encoders for real-time predictions.
 
+---
+
 ## Dataset
 The dataset (`employee_salary.csv`) includes the following columns:
 - **employee_id**: Unique identifier
@@ -29,6 +31,8 @@ The dataset (`employee_salary.csv`) includes the following columns:
 - **commission_pct**: Commission percentage (0.0 to 0.5)
 - **manager_id**: Reporting manager ID
 - **department_id**: Department (e.g., IT, HR, SALES)
+
+---
 
 ## Setup
 1. **Clone the repository**:
@@ -55,6 +59,9 @@ The dataset (`employee_salary.csv`) includes the following columns:
 streamlit run app.py
 ```
 Access at http://localhost:8501. Enter employee details to predict salary.
+
+---
+
 **Model Performance**
 Example metrics (based on sample data):
 
@@ -63,6 +70,8 @@ Example metrics (based on sample data):
 - RMSE: ~2550.9
 
 Note: Performance depends on the actual dataset. The sample dataset is small; real-world data may yield different results.
+
+---
 
 **Files**
 - app.py: Streamlit app for real-time salary predictions.
@@ -76,6 +85,8 @@ Note: Performance depends on the actual dataset. The sample dataset is small; re
 - saved_models/: Directory for saved model and encoders (populated after running train_model.py).
 - eda_plots/: Directory for EDA visualizations (populated after running eda.py).
 
+---
+
 **Requirements**
 Listed in requirements.txt:
 ```bash
@@ -87,6 +98,9 @@ seaborn
 streamlit
 joblib
 ```
+
+---
+
 **Notes**
 
 **Dataset:** Replace employee_salary.csv with your actual HR dataset if available, ensuring column names match.
@@ -97,9 +111,12 @@ Add SHAP for model explainability.
 Include more models (e.g., XGBoost, SVR) in train_model.py.
 Enhance the app with visualizations or a form-based input system.
 
+---
 
 **Performance:** The claimed metrics (R²=91.3%, MAE=1320.4, RMSE=2550.9) are based on sample data. Validate with your dataset.
 GitHub: The repository may need updating to match this project (currently uses UCI Adult dataset).
+
+---
 
 **Example Usage**
 
