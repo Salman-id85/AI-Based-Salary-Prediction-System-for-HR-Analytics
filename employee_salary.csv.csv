@@ -1,0 +1,11 @@
+employee_id,first_name,last_name,email,phone_number,hire_date,job_id,salary,commission_pct,manager_id,department_id
+EMP001,John,Doe,john.doe@company.com,123-456-7890,2018-06-15,IT_PROG,60000,0.1,MGR001,IT
+EMP002,Jane,Smith,jane.smith@company.com,234-567-8901,2015-03-10,HR_REP,55000,0.05,MGR002,HR
+EMP003,Mike,Johnson,mike.johnson@company.com,345-678-9012,2020-01-20,SALES_REP,70000,0.15,MGR003,SALES
+EMP004,Emily,Davis,emily.davis@company.com,456-789-0123,2017-09-05,IT_PROG,80000,0.1,MGR001,IT
+EMP005,David,Wilson,david.wilson@company.com,567-890-1234,2019-11-30,FIN_ANALYST,65000,0.0,MGR004,FINANCE
+EMP006,Sarah,Brown,sarah.brown@company.com,678-901-2345,2016-02-25,MKT_REP,62000,0.1,MGR005,MARKETING
+EMP007,James,Taylor,james.taylor@company.com,789-012-3456,2014-07-10,IT_PROG,90000,0.2,MGR001,IT
+EMP008,Laura,Moore,laura.moore@company.com,890-123-4567,2021-04-15,HR_REP,50000,0.05,MGR002,HR
+EMP009,Robert,Clark,robert.clark@company.com,901-234-5678,2013-12-01,SALES_REP,75000,0.2,MGR003,SALES
+EMP010,Anna,Lewis,anna.lewis@company.com,012-345-6789,2018-08-20,FIN_ANALYST,70000,0.0,MGR004,FINANCE
