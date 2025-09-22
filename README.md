@@ -107,9 +107,19 @@ Run python eda.py to explore data (check eda_plots/).
 Run python train_model.py to train models and view performance metrics.
 Run streamlit run app.py, then input details (e.g., Job Role=IT_PROG, Experience=5 years) to predict salary.
 
+---
+
 **Future Scope**
 
 Integrate SHAP for explainable AI.
 Add more advanced models (e.g., XGBoost, Gradient Boosting).
 Expand dataset with additional features (e.g., performance ratings, education).
 Deploy as a web service for HR teams.
+
+---
+
+**License**
+
+This project is licensed under the Apache License 2.0 - see the LICENSE file for details.
+
+For issues or contributions, contact the repository owner or open a GitHub issue
