@@ -1,7 +1,7 @@
 # AI-Based-Salary-Prediction-System-for-HR-Analytics
 A Streamlit app for predicting employee salaries based on HR features
 
-[![License](https://img.shields.io/badge/License-Apache-2.0-green.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-Apache-green.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)]()
 [![Streamlit](https://img.shields.io/badge/Framework-Streamlit-red)]()
 [![scikit-learn](https://img.shields.io/badge/ML-scikit--learn-orange)]()
