@@ -1,10 +1,12 @@
 # AI-Based-Salary-Prediction-System-for-HR-Analytics
 A Streamlit app for predicting employee salaries based on HR features
 
-[![License](https://img.shields.io/badge/License-Apache-green.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-Apache%202.0-green.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)]()
 [![Streamlit](https://img.shields.io/badge/Framework-Streamlit-red)]()
 [![scikit-learn](https://img.shields.io/badge/ML-scikit--learn-orange)]()
+[![GitHub Packages](https://img.shields.io/badge/Package-GitHub%20Container%20Registry-blue)](https://ghcr.io/salman-id85/salary-predictor)
+[![GitHub release](https://img.shields.io/github/v/release/Salman-id85/AI-Based-Salary-Prediction-System-for-HR-Analytics)](https://github.com/Salman-id85/AI-Based-Salary-Prediction-System-for-HR-Analytics/releases)
 
 This project predicts employee salaries based on HR-related features like job role, experience, and department using machine learning. It includes a Streamlit app for real-time predictions and exploratory data analysis (EDA) visualizations to enhance HR decision-making.
 
